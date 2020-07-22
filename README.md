@@ -5,3 +5,5 @@ The language that I have used for the same is R.
 ## Contents
 ###   -Data Visualization
 ###### 1.[District Wise People's Data](https://rpubs.com/Salil_Suman_Meher/639968) :Tabular and visual analysis of district wise people's data to draw out some meaningful insights which can help us understand and interpret the data so that further actions can be taken accordingly if needed.  
+###   -Machine Learning
+###### 1.[Content Based Movie Recommendation System](https://rpubs.com/Salil_Suman_Meher/641843) :Building a recommendation system using hierarchical clustering based on the genres of the movies that the viewer has either already watched or rated it high.
