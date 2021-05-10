@@ -9,6 +9,7 @@ The languages that I have used for the same are R and Python.
 ###   -Machine Learning
 ###### 1.[Content Based Movie Recommendation System](https://rpubs.com/Salil_Suman_Meher/641843) :Building a recommendation system using hierarchical clustering based on the genres of the movies that the viewer has either already watched or rated it high.
 ###### 2.[Multiple Linear Regression Model](https://rpubs.com/Salil_Suman_Meher/655560) :Establishing an interpretable and deployable Multiple Linear Regression model and checking the assumptions of CLRM, which predicts the results of Baseball and Basketball tournaments using the various independent variables available.
+###### 3.[Credit and Fraud Risk Modelling](https://github.com/SalilSuman/Python_Projects/blob/main/Credit_Risk_Modelling.ipynb) :Building a Logistic Regression, Decision Tree and Naive Bayes model based on personal/demographic data and credit history of customers to compute the risk of santioning loans to new individuals by identifying whether they will default or pay. 
 ###   -Data Cleaning 
 ###### 1.[Cleaning and Filtering of Consumer Data](https://rpubs.com/Salil_Suman_Meher/652534) :Efficient cleaning of a consumer data set and drawing out meaningful insights from the processed data which can be of financial help to the organization or help them understand customer behaviour. 
 ###   -Time Series Analysis
