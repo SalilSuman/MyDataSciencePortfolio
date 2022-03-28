@@ -13,4 +13,4 @@ The languages that I have used for the same are R and Python.
 ###   -Data Cleaning 
 ###### 1.[Cleaning and Filtering of Consumer Data](https://rpubs.com/Salil_Suman_Meher/652534) :Efficient cleaning of a consumer data set and drawing out meaningful insights from the processed data which can be of financial help to the organization or help them understand customer behaviour. 
 ###   -Time Series Analysis
-###### 1.[Predicting Future Sales of Time Series Data](https://github.com/SalilSuman/Python_Projects/blob/main/Predicting_Future_Sales.ipynb) :Analyzing the various properties of the Time Series data after effective cleaning and building a relevant model which predicts the required values in the future with minimal errors to be used by the concerned businesses.  
+###### 1.[Predicting Future Sales of Time Series Data](https://github.com/SalilSuman/Python_Projects/blob/main/Forecasting_Sales.ipynb) :Analyzing the various properties of the Time Series data after effective cleaning and building a relevant model which predicts the required values in the future with minimal errors to be used by the concerned businesses.  
